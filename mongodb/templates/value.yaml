@@ -1,0 +1,5 @@
+deployment:
+  imageRepo: shivahyd1324/mongodb
+  imageVersion: v1
+service:
+  type: ClusterIP
